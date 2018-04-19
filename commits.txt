@@ -1,0 +1,11 @@
+commit 0f5a68cbd8d3e96789eda2caedf22874295e252a
+Author: Jeffrey <alto.951@hotmail.com>
+Date:   Wed Apr 18 23:20:43 2018 -0500
+
+    Agregue un nuevo parrafo a index.html
+
+commit 790b8da86b5f99c7203f6e436bce59d8d8553059
+Author: Jeffrey <alto.951@hotmail.com>
+Date:   Wed Apr 18 23:17:32 2018 -0500
+
+    Agregue git al proyecto
